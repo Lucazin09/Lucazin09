@@ -6,8 +6,6 @@ Me chamo Lucas Bertoldo Moraes, tenho 24 anos, mora em São Luis-Ma. Sempre tive
 
  Atualmente trabalho como desenvolvedor freelancer fullstrack. Diariamente faço uso de diversas tecnologias como SQL, HTML, CSS, JavaScript , Git e Docker, Além de está cursando a faculdade de Ciência da Computação", tenho uma rotina ativa onde pode ser acompanhado no meu insta [Lucazbert__](https://www.instagram.com/lucasbert__?igsh=Y3FxNGh0ZWpudTR0&utm_source=qr)".
 
-    [Linkin](https://www.linkedin.com/in/lucasbertoldo09/)"
-
 ### 🤖 Linguagens e Tecnologias
 
 
