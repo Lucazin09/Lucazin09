@@ -1,8 +1,10 @@
-# 👩🏻‍💻 Lucas Bertoldo
+# 👨🏽‍💻 Lucas Bertoldo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Lucas Bertoldo Moraes, tenho 24 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Lucas Bertoldo Moraes, tenho 24 anos, mora em São LUis Ma. Sempre tive uma visão ampla sobre criação e certa curiosidade no processo de resolver problemas, isso desde a minha infância que me impulsionou até a programação. O amor por essa área me dar a gana de sempre querer ir além e conquitas de sonhos.
+
+ Atualmente trabalho como desenvolvedor freelancer fullstrack. Diariamente faço uso de diversas tecnologias como SQL, HTML, CSS, JavaScript , Git e Docker, Além de está cursando a faculdade de Ciência da Computação", tenho uma rotina ativa onde pode ser acompanhada no meu insta [Lucazbert__](https://www.instagram.com/lucasbert__?igsh=Y3FxNGh0ZWpudTR0&utm_source=qr)".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
