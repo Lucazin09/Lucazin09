@@ -17,9 +17,8 @@ Me chamo Lucas Bertoldo Moraes, tenho 24 anos, mora em São Luis-Ma. Sempre tive
     title="HTML" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
- />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
 <img 
  align="left" 
     alt="HTML"
