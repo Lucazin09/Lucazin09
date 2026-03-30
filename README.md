@@ -127,20 +127,4 @@ Me chamo Lucas Bertoldo Moraes, tenho 24 anos, mora em São Luis-Ma. Sempre tive
 <br/>
 <br/>
 ---
-### 📊 Estatísticas
-<p>
- <imag
-    align="left"
-    alt="Github Stats"
-    height="200"
-    style="padding-right: 10x;"
-    src="https://github-readme-stats.vercel.app/api?username=Lucazin09&show_icons=true&theme=tokyonight&include_all_commits=True&locale=pt-br"
- />
 
-<imag
-    align="left"
-    alt="Github Stats"
-    height="200"
-    style="padding-right: 10x;"
-    scr="https://github-readme-stats.vercel.app/api/top-langs?username=Lucazin09&theme=tokyonight&layout=compact&custom_title=Tecnologias&Langs_count=7"
-/>
